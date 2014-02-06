@@ -1,0 +1,22 @@
+{
+  "name": "code-snippet",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kenchris",
+  "authors": [
+    "Kenneth Christiansen <kenneth.christiansen@gmail.com>"
+  ],
+  "description": "Code highlighter based on highlightjs",
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "platform": "Polymer/platform#~0.1.1",
+    "polymer": "Polymer/polymer#~0.1.1",
+    "highlightjs": "components/highlightjs"
+  }
+}
